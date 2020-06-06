@@ -1,0 +1,18 @@
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.exe.config
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.exe
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.pdb
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.Properties.Resources.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.exe
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.pdb
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.EditarCitas.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.EditarPacientes.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.InicioSesion.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.NuevaCita.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.NuevoPaciente.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.RegistroSesion.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.DatosPacientes.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.Citas.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.Usuarios.resources
+C:\Users\HP\Documents\Lab 1 Progra SqlServer\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.MenuCon.resources
